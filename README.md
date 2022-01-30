@@ -1,9 +1,9 @@
 
 <p align="center">
-𝐓𝐀𝐔𝐑𝐔𝐒 𝐁𝐎𝐓
+ 𝐁𝐎𝐓
 
 <p align="center">
-𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 ❤︎ 𝙱𝚈 𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳
+𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 ❤︎ 𝙱𝚈 Professor
 
 ##
 <a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
@@ -24,11 +24,11 @@
 </p>
        
   <p align="center">
-<a href="https://github.com/muhammed-userbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/viruserbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/virus-usrbot">md-usrbot</a>
     <br>
        | © |
         Reserved |
@@ -43,7 +43,7 @@
 </p>
 <h3 align="center">sᴜᴘᴘᴏʀᴛ ᴍᴇ:</h3>
 <p align="center">
-<a href="https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA" target="blank"><img align="center" src="TRSYT.png" height="45" width="60" /></a>
+<a href="https://youtube.com/channel/UCrX2UZZdiQ4LDZkn50chI7w" target="blank"><img align="center" src="TRSYT.png" height="45" width="60" /></a>
 </p>
   
 
@@ -58,7 +58,7 @@
 ##
   <h3 align="center">ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</h3>
 <p align="center">
-  <a href="https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL" target="blank"><img align="center" src="TRSWA.png"alt="kyrie.baran" height="50" width="50" /></a>
+  <a href="https://chat.whatsapp.com/JCDX" target="blank"><img align="center" src="TRSWA.png"alt="kyrie.baran" height="50" width="50" /></a>
 </p>
 
 
