@@ -3,7 +3,7 @@
  𝐁𝐎𝐓
 
 <p align="center">
-𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 ❤︎ 𝙱𝚈 Professor
+𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 ❤︎ 𝙱𝚈 Alexa
 
 ##
 <a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
