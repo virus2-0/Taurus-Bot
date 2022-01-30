@@ -51,6 +51,14 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
 │ ʜᴇʏ ᴜsᴇʀ ` + wish + `
 │         *⌚` + time + `*
 │
+join our telegram
+
+t.me/mr_unique_hacker
+
+Whatsapp me on wa.me/12028071779?text=Hy
+
+YouTube : https://youtube.com/channel/UCrX2UZZdiQ4LDZkn50chI7w
+
 ┣𝕾⃝🌺 *ᴅᴇᴠᴇʟᴏʟᴇʀ* : Alexa
 ┣𝕾⃝🌺 *BOT* : Alexa࿐
 ┣𝕾⃝🌺 *ᴠᴇʀsɪᴏɴ* : 2.0.0
